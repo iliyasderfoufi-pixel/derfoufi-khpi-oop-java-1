@@ -6,7 +6,7 @@
 - **Variant:** 10
 - **Repository:** https://github.com/iliyasderfoufi-pixel/derfoufi-khpi-oop-java-1
 - **Branch:** `lab02`
-- **Pull Request:** To be added
+- **Pull Request:** [To be added](https://github.com/iliyasderfoufi-pixel/derfoufi-khpi-oop-java-1/pull/2)
 - 2. Purpose
 The purpose of this laboratory work is to practise using Java primitive data types, numeric literals, and arithmetic operations. In Variant 10, the program converts an angular position from degrees to radians and calculates the arc length using the given radius.
 2. Variant 10 — Angular Position
