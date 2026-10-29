@@ -8,3 +8,13 @@
 
 \[Report](docs/lab01/report.md)
 
+
+
+\## Laboratory Work No. 2
+
+
+
+\[Report](docs/lab02/REPORT.md)
+
+
+
